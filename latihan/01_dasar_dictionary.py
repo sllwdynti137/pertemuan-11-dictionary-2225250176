@@ -1,3 +1,4 @@
+"feat: menyelesaikan latihan dictionary"
 data = {
     "nim": "A001",
     "nama": "Ayu",
