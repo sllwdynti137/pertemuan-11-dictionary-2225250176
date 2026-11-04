@@ -50,3 +50,5 @@ for nim, info in data_mahasiswa.items():
 
 # Menghitung rata-rata nilai
 print(f"\nRata-rata = {rata_rata_nilai(data_mahasiswa):.2f}")
+
+"feat: menyelesaikan praktik dan dokumentasi"
